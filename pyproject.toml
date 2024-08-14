@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "series-temporais-cripto"
+version = "0.1.0"
+description = ""
+authors = ["Aline Silveira <aline@outlook.ie>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yfinance = "^0.2.41"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
