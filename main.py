@@ -30,8 +30,8 @@ cryptos = {
     'ETH-USD': 'Ethereum',
     'LTC-USD': 'Litecoin',
     'LINK-USD': 'Chainlink',
-    'UNI7083-USD': 'Uniswap',  # Verifique o símbolo correto para UNI7083
-    'MELI': 'Meli Dólar'    # Verifique se é realmente criptomoeda ou ação
+    'UNI7083-USD': 'Uniswap',
+    'MELI': 'Meli Dólar'
 }
 
 # Dicionário para armazenar os DataFrames carregados
